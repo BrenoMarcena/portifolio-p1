@@ -1,1 +1,1 @@
-Um site para mostra um pouco sobre mim 
+Um site para mostrar um pouco sobre mim !
